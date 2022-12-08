@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "olfactory-factory",
+  "private_key_id": "2ec561e08d6b3c99e1f4ea533c908ac5c30b1116",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC65eI9cefQfcPh\n3VRC7wzJs0tANV6trsJwQJkzUEPfBSaiooPaDAw5FGeamJ4WTyDF1DwcQagcB3fX\nhZCOX3t1mPTccWKO8HB3vvuB+rPIURBJ0vqE/YPogo9H14Tci5/Z15NECNqlMdMR\nhpXenI2kdH6ydtCpkywJa5SmglT8SOzHD6goMR8QcZ63K+/6hKJPn5DGs0gvk5Ii\n60xmHNgGaOG7f995uW0W8Xsph2LWNzonG16osAoMyDdnCeEXxyGpqr52QhoznMr/\nJbVZSBFSPrRxws2hvZ4JDKOQDAuHGV7tAEQeD7c49LlBFX1fCqklAv1CAeerGITE\nOU7HUi7NAgMBAAECggEADHp+zCrHwdQzzj0bJsuT0f+7ktI9ZmFDBYBP+kIYq1JK\nYxTGCDqXslPvcD39CBueYjb/uxnodylJ0hpOgthTLjsugMK9RDKU1RnrlvZofIO/\nulNw0Iz7T/yE7n9a6pK+ndUr4EtVtdk0G3kd69q4sPXqOPt/27fsz8WJYO4Aw0X0\npcK44QJ922axUWJZPrfS4rMmeHD46CvcLZXCFaTvlL4oWRYEz9OT+D/ySvSiQ0kj\nZ6hvFspX5pF8P0ZfastPG3IFw+CA16aNuQEjF0+Jrpzf1hGAsCqxeAJopb1ZTaWD\niNccbc4G3OFF/xpW7bTJHRs+U3vzVJP98YkNCSroIQKBgQDdbB+UH/49RAEjNuMt\nm7ReBrGlQjNhKbG4l+2GQveuuEeDmawlY/n0ISH6J+XxdOXXjhI1HBBG5zczukma\nZlN2X1e3rZ8cT1CpyinTo0s1YYeMxgvjSCvqJroXUhUhtdaUWJUy/S8XY364gamH\nNoViPTO9yfLkIVVcs/KSSh1rBQKBgQDYFZFcEVzHmC5yQLVY8JXc0Ra6LrRwe5HV\nPvoggSl/P7bc9SCC7GadYU8wfTy+C+Bo7aTcIjJvD2jK/0QRWJQlNdv+qEl5uBpH\n4qfSyQsOjuGkgUw8QdonVSL7yJpa95K39E9M1A1/d2BX+gtAFj6h7TrLZAiby/O5\ndSPQbTfPKQKBgQDOEDTnRkr2O1aPriIILPLT2ojy0kQ8tW/G6eVMYQBeYvNy/s3d\nUkipMTiMtRri9jZ8v6QkNwTS55VRF5ouDfK4pAxfTT5ZO1tHWHRKmJqCiEx870ba\n8yyjUf03fNVbtP2Iu1PGyydLLfYdwdXClzPU9D417z6Tno3xoyopiL4N/QKBgB0T\n0eq0v2pwdReU05JzVYdQb6GANXHJfxdWESyclOv1s/LJ3aUgkLJu7MwWnjzotjsI\nd53T0DuXtD9U2GEJLW5QcBk1piWF+6teubyopx8/ZOfRKmQVbHjMgRemp/bDx++P\nJbit9F8JvmI4WJk4JRd/J+FExc/JQzPaqoYanF75AoGAHgQVh8opmt3eS5qt6hA5\nc4QhCWM9T9h4cKaI21PlMlyRtJvySlWNRDIv7EsPJFX3MuOBjdekGvE+bdZXgUvs\nN6ImtcO8I8FtPK/DDeAbqSpijJ/3teg+TAoL0MRQXo6tnAFtRMMnXrKn2XbGU3RU\nXOcB32SSpnBZmLkxKvsjzGA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "sentiment-olfactory@olfactory-factory.iam.gserviceaccount.com",
+  "client_id": "116594138301156244588",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sentiment-olfactory%40olfactory-factory.iam.gserviceaccount.com"
+}
